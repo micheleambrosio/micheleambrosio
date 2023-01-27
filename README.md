@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 💜 Apaixonada por tecnologia e por desenvolver soluções <br>🎓 Cientista da Computação <br>💻 Desenvolvedora Front-end | Eduzz<br>👩🏻‍💻 Co-fundadora do projeto Minas na Tech <br>💬 Instrutora da Trilha de CSS da DIO<br>🎮 Gamer nas horas vagas
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/programi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michelequeirozambrosio) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@programi_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/michele_ambrosio) 
 
 # 💻 Tech Stack:
